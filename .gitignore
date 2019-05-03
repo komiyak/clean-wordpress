@@ -19,3 +19,5 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+# Ignoring JetBrains files.
+.idea/
