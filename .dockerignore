@@ -1,0 +1,10 @@
+# For a dockerization.
+Dockerfile
+docker-compose.yml
+
+# Git
+.git
+.gitignore
+
+# Project files
+.idea
